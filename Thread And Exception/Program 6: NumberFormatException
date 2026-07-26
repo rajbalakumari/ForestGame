@@ -1,0 +1,25 @@
+Code
+public class NumberFormatDemo {
+
+    public static void main(String[] args) {
+
+        String s = "ABC";
+
+        try {
+
+            int num = Integer.parseInt(s);
+
+            System.out.println(num);
+
+        } catch (NumberFormatException e) {
+
+            System.out.println("Invalid Number Format");
+
+        }
+
+        System.out.println("Execution Completed");
+    }
+}
+Output
+Invalid Number Format
+Execution Completed
