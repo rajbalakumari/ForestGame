@@ -1,0 +1,23 @@
+Code
+class Demo implements Runnable {
+
+    public void run() {
+        System.out.println("Runnable Thread Executed");
+    }
+}
+
+public class ThreadDemo2 {
+
+    public static void main(String[] args) {
+
+        Demo d = new Demo();
+        Thread t = new Thread(d);
+
+        t.start();
+
+        System.out.println("Main Thread");
+    }
+}
+Output
+Main Thread
+Runnable Thread Executed
