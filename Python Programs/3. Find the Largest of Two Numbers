@@ -1,0 +1,12 @@
+3. Find the Largest of Two Numbers
+a = 25
+b = 18
+
+if a > b:
+    print("Largest =", a)
+else:
+    print("Largest =", b)
+
+Output:
+
+Largest = 25
