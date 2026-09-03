@@ -1,0 +1,8 @@
+1️⃣ Print a Message
+python
+# Program to print a welcome message
+print("Hello, Python Learner!")
+Output:
+
+Code
+Hello, Python Learner!
