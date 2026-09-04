@@ -1,0 +1,26 @@
+2. Student Information
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Information</title>
+</head>
+<body>
+
+    <h1>Student Information</h1>
+
+    <p>Name: Raj</p>
+    <p>Age: 22</p>
+    <p>Course: Computer Science</p>
+    <p>College: Ramadevi Women's University</p>
+
+</body>
+</html>
+
+Output:
+
+Student Information
+
+Name: Raj
+Age: 22
+Course: Computer Science
+College: Ramadevi Women's University
