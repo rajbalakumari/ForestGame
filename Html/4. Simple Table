@@ -1,0 +1,39 @@
+4. Simple Table
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Marks</title>
+</head>
+<body>
+
+    <h1>Student Marks</h1>
+
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th>Subject</th>
+            <th>Marks</th>
+        </tr>
+
+        <tr>
+            <td>Raj</td>
+            <td>Java</td>
+            <td>85</td>
+        </tr>
+
+        <tr>
+            <td>Raj</td>
+            <td>HTML</td>
+            <td>90</td>
+        </tr>
+    </table>
+
+</body>
+</html>
+
+Output:
+| Name | Subject | Marks |
+| ---- | ------- | ----: |
+| Raj  | Java    |    85 |
+| Raj  | HTML    |    90 |
+
