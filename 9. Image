@@ -1,0 +1,20 @@
+9. Image
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Example</title>
+</head>
+<body>
+
+    <h1>My Image</h1>
+
+    <img src="photo.jpg" alt="My Photo" width="300">
+
+</body>
+</html>
+
+Output:
+
+My Image
+
+[ Photo/Image displayed here ]
