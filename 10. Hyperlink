@@ -1,0 +1,22 @@
+10. Hyperlink
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Link Example</title>
+</head>
+<body>
+
+    <h1>Useful Website</h1>
+
+    <a href="https://www.google.com">
+        Visit Google
+    </a>
+
+</body>
+</html>
+
+Output:
+
+Useful Website
+
+Visit Google
