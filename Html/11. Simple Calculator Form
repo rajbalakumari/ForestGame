@@ -1,0 +1,33 @@
+11. Simple Calculator Form
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Calculator</title>
+</head>
+<body>
+
+    <h1>Calculator</h1>
+
+    Number 1:
+    <input type="number"><br><br>
+
+    Number 2:
+    <input type="number"><br><br>
+
+    <button>Add</button>
+    <button>Subtract</button>
+    <button>Multiply</button>
+    <button>Divide</button>
+
+</body>
+</html>
+
+Output:
+
+Calculator
+
+Number 1: [________]
+
+Number 2: [________]
+
+[Add] [Subtract] [Multiply] [Divide]
