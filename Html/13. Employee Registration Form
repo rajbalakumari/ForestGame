@@ -1,0 +1,38 @@
+13. Employee Registration Form
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Form</title>
+</head>
+<body>
+
+    <h1>Employee Registration</h1>
+
+    <form>
+
+        Name:
+        <input type="text"><br><br>
+
+        Email:
+        <input type="email"><br><br>
+
+        Phone:
+        <input type="tel"><br><br>
+
+        Department:
+        <select>
+            <option>Java</option>
+            <option>Python</option>
+            <option>Testing</option>
+            <option>HR</option>
+        </select>
+        <br><br>
+
+        <input type="submit" value="Register">
+
+    </form>
+
+</body>
+</html>
+
+Output:
