@@ -1,0 +1,39 @@
+14. Login Form
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+</head>
+<body>
+
+    <h1>Login Form</h1>
+
+    <form>
+
+        Username:
+        <input type="text"><br><br>
+
+        Password:
+        <input type="password"><br><br>
+
+        <input type="checkbox">
+        Remember Me
+        <br><br>
+
+        <input type="submit" value="Login">
+
+    </form>
+
+</body>
+</html>
+
+Output:
+Login Form
+
+Username: [____________]
+
+Password: [____________]
+
+☐ Remember Me
+
+[Login]
