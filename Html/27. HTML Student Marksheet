@@ -1,0 +1,65 @@
+27. HTML Student Marksheet
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Marksheet</title>
+</head>
+<body>
+
+    <h1>Student Marksheet</h1>
+
+    <table border="1">
+        <tr>
+            <th>Subject</th>
+            <th>Marks</th>
+        </tr>
+
+        <tr>
+            <td>Java</td>
+            <td>85</td>
+        </tr>
+
+        <tr>
+            <td>Python</td>
+            <td>80</td>
+        </tr>
+
+        <tr>
+            <td>HTML</td>
+            <td>90</td>
+        </tr>
+
+        <tr>
+            <td>SQL</td>
+            <td>75</td>
+        </tr>
+
+        <tr>
+            <td>JavaScript</td>
+            <td>88</td>
+        </tr>
+
+        <tr>
+            <th>Total</th>
+            <th>418 / 500</th>
+        </tr>
+    </table>
+
+</body>
+</html>
+Output:
+        Student Marksheet
+
++------------+-------+
+| Subject    | Marks |
++------------+-------+
+| Java       |  85   |
+| Python     |  80   |
+| HTML       |  90   |
+| SQL        |  75   |
+| JavaScript |  88   |
++------------+-------+
+| Total      |418/500|
++------------+-------+
+
+Next → 28. HTML Login Page
